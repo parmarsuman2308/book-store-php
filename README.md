@@ -1,20 +1,32 @@
-# My First Project
+# Book Store Web Application 📚
 
-Hi 👋  
-My name is Suman Parmar.
+## 👋 About Me
+Hi, I’m **Suman Parmar**, a Final Year student and Web Developer.
 
-I am a Final Year student and a Web Developer.
-
-## Skills
+## 🛠️ Technologies Used
+- PHP
+- MySQL
 - HTML
 - CSS
 - Bootstrap
-- PHP
-- MySQL
 
-## About This Repository
-This is my first GitHub repository.
-I am learning how to upload projects and manage code using GitHub.
+## 📌 Project Description
+This is a Book Store web application where users can:
+- Browse books by category
+- View book details
+- Add books to cart
+- Place orders
 
-## GitHub Profile
+Admin features:
+- Add books
+- Manage orders
+
+## ▶️ How to Run This Project
+1. Install XAMPP
+2. Copy project folder to `htdocs`
+3. Create database in phpMyAdmin
+4. Import SQL file
+5. Run `localhost/project-folder-name`
+
+## 🔗 GitHub Profile
 https://github.com/parmarsuman2308
