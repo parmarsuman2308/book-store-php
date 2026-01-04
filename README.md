@@ -21,6 +21,18 @@ Admin features:
 - Add books
 - Manage orders
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### 🛒 Cart Page
+![Cart Page](screenshots/cart.png)
+
+### 🔐 Admin Panel
+![Admin Panel](screenshots/admin.png)
+
+
 ## ▶️ How to Run This Project
 1. Install XAMPP
 2. Copy project folder to `htdocs`
